@@ -5,7 +5,7 @@
 - <b>Security Awareness Training</b>
 - <b>Practical Auditing</b>
 - <b>Security Risk Assessment</b>
-- <b>Writing an Effective </b>
+- <b>Writing an Effective Information Security Policy</b>
 
 <h2>Certifications:</h2>
 
