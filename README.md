@@ -2,16 +2,16 @@
 
 <h2>Projects:</h2>
 
-- <b>Security Awareness Training</b>
-- <b>Practical Auditing</b>
-- <b>Security Risk Assessment</b>
-- <b>Writing an Effective Information Security Policy</b>
+- [Security Awareness Training](https://github.com/michaelmccuin/SecurityAwarenessTraining/blob/main/README.md)
+- [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing)
+- [Security Risk Assessment](https://github.com/michaelmccuin/SecurityRiskAssessment)
+- [Writing an Effective Information Security Policy](https://github.com/michaelmccuin/WritingAnEffectiveInformationSecurityPolicy)
 
 <h2>Certifications:</h2>
 
-- <b><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S2HXYNMUT3BT/">Google Cybersecurity Certification</a></b>
-- <b><a href="https://www.credly.com/earner/earned/badge/9a8adefa-0b11-4361-916c-b388eafc93ff">CompTIA Security+ ce Certification</a></b>
-- <b><a href="https://simplycyber.teachable.com/courses/1592799/certificate?utm_source=student_mailer&utm_medium=email&utm_campaign=issued_certificate_notification">The Definitive GRC Analyst Master Class Certification</a></b>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S2HXYNMUT3BT/">Google Cybersecurity Certification</a>
+- <a href="https://www.credly.com/earner/earned/badge/9a8adefa-0b11-4361-916c-b388eafc93ff">CompTIA Security+ ce Certification</a>
+- <a href="https://simplycyber.teachable.com/courses/1592799/certificate?utm_source=student_mailer&utm_medium=email&utm_campaign=issued_certificate_notification">The Definitive GRC Analyst Master Class Certification</a>
 
 <h2>Connect with me:</h2>
 
