@@ -2,9 +2,9 @@
 
 <h2>Projects:</h2>
 
-- [Security Awareness Training](https://github.com/michaelmccuin/SecurityAwarenessTraining)
 - [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing)
 - [Security Risk Assessment](https://github.com/michaelmccuin/SecurityRiskAssessment)
+- [Security Awareness Training](https://github.com/michaelmccuin/SecurityAwarenessTraining)
 - [Writing an Effective Information Security Policy](https://github.com/michaelmccuin/WritingAnEffectiveInformationSecurityPolicy)
 
 <h2>Certifications:</h2>
