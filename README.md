@@ -12,6 +12,8 @@
 - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S2HXYNMUT3BT/">Google Cybersecurity Certification</a>
 - <a href="https://www.credly.com/earner/earned/badge/9a8adefa-0b11-4361-916c-b388eafc93ff">CompTIA Security+ ce Certification</a>
 - <a href="https://simplycyber.teachable.com/courses/1592799/certificate?utm_source=student_mailer&utm_medium=email&utm_campaign=issued_certificate_notification">The Definitive GRC Analyst Master Class Certification</a>
+- <a href="https://xm-cyber.thinkific.com/certificates/kfmzmfxstj">Cybersecurity Exposure Management Certification</a>
+
 
 <h2>Connect with me:</h2>
 
