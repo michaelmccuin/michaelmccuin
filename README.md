@@ -10,10 +10,10 @@
 <h2>Certifications:</h2>
 
 - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S2HXYNMUT3BT/">Google Cybersecurity Certification</a>
-- <a href="https://www.credly.com/earner/earned/badge/9a8adefa-0b11-4361-916c-b388eafc93ff">CompTIA Security+ ce Certification</a>
-- <a href="https://simplycyber.teachable.com/courses/1592799/certificate?utm_source=student_mailer&utm_medium=email&utm_campaign=issued_certificate_notification">The Definitive GRC Analyst Master Class Certification</a>
+- <a href="https://i.imgur.com/UFBttCc.png">CompTIA Security+ ce Certification</a>
+- <a href="https://i.imgur.com/AO2C28b.jpg">The Definitive GRC Analyst Master Class Certification</a>
 - <a href="https://xm-cyber.thinkific.com/certificates/kfmzmfxstj">Cybersecurity Exposure Management Certification</a>
-- <a href="https://i.imgur.com/VJC47CB.jpg">PCI Compliance Certification</a>
+- <a href="https://i.imgur.com/Cn9oYCZ.jpg">PCI Compliance Certification</a>
 
 
 <h2>Connect with me:</h2>
