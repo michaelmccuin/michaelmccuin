@@ -2,6 +2,7 @@
 
 <h2>Projects:</h2>
 
+- [Perform a Query with Splunk](https://github.com/michaelmccuin/PerformAQueryWithSplunk)
 - [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing)
 - [Security Risk Assessment](https://github.com/michaelmccuin/SecurityRiskAssessment)
 - [Security Awareness Training](https://github.com/michaelmccuin/SecurityAwarenessTraining)
