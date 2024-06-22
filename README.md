@@ -14,6 +14,8 @@
 - <a href="https://i.imgur.com/AO2C28b.jpg">The Definitive GRC Analyst Master Class Certification</a>
 - <a href="https://xm-cyber.thinkific.com/certificates/kfmzmfxstj">Cybersecurity Exposure Management Certification</a>
 - <a href="https://i.imgur.com/Cn9oYCZ.jpg">PCI Compliance Certification</a>
+- <a href="https://i.imgur.com/h7vRktc.jpg">Intro to Splunk Certification</a>
+- <a href="https://i.imgur.com/6qfEqhh.jpg">Introduction to Splunk Infrastructure Monitoring</a>
 
 
 <h2>Connect with me:</h2>
