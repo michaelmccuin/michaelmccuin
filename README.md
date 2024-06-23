@@ -1,4 +1,4 @@
-<h1><a href="https://www.linkedin.com/in/michaelmccuin/">Michael McCuin</a>, <br/></a> Cybersecurity GRC Analyst</a></h1>
+<h1><a href="https://www.linkedin.com/in/michaelmccuin/">Michael McCuin</a>, <br/></a> Governance, Risk, and Compliance Analyst</a></h1>
 
 <h2>Projects:</h2>
 
