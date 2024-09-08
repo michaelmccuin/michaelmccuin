@@ -10,6 +10,7 @@
 
 <h2>Certifications:</h2>
 
+- <a href="https://i.imgur.com/xfTKi3j">AWS Certified Cloud Practitioner Certification</a>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S2HXYNMUT3BT/">Google Cybersecurity Certification</a>
 - <a href="https://i.imgur.com/UFBttCc.png">CompTIA Security+ ce Certification</a>
 - <a href="https://i.imgur.com/AO2C28b.jpg">The Definitive GRC Analyst Master Class Certification</a>
