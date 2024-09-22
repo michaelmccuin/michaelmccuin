@@ -11,10 +11,11 @@
 <h2>Certifications:</h2>
 
 - <a href="https://i.imgur.com/xfTKi3j">AWS Certified Cloud Practitioner Certification</a>
-- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S2HXYNMUT3BT/">Google Cybersecurity Certification</a>
-- <a href="https://i.imgur.com/UFBttCc.png">CompTIA Security+ ce Certification</a>
-- <a href="https://i.imgur.com/AO2C28b.jpg">The Definitive GRC Analyst Master Class Certification</a>
+- <a href="https://imgur.com/pYl0Sx5.png">CompTIA A+ Certification</a>
+- <a href="https://i.imgur.com/UFBttCc.png">CompTIA Security+ Certification</a>
 - <a href="https://xm-cyber.thinkific.com/certificates/kfmzmfxstj">Cybersecurity Exposure Management Certification</a>
+- <a href="https://i.imgur.com/AO2C28b.jpg">The Definitive GRC Analyst Master Class Certification</a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S2HXYNMUT3BT/">Google Cybersecurity Certification</a>
 - <a href="https://i.imgur.com/Cn9oYCZ.jpg">PCI Compliance Certification</a> <br/>
 - Splunk
   - <a href="https://i.imgur.com/h7vRktc.jpg">Intro to Splunk Certification</a>
