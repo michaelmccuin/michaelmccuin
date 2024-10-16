@@ -17,6 +17,7 @@
 - <a href="https://xm-cyber.thinkific.com/certificates/kfmzmfxstj">Cybersecurity Exposure Management</a>
 - <a href="https://i.imgur.com/AO2C28b.jpg">The Definitive GRC Analyst Master Class</a>
 - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S2HXYNMUT3BT/">Google Cybersecurity</a>
+- <a href="https://i.imgur.com/CDqw3GW.png">Linux Essentials</a>
 - <a href="https://i.imgur.com/Cn9oYCZ.jpg">PCI Compliance</a> <br/>
 - Splunk
   - <a href="https://i.imgur.com/h7vRktc.jpg">Intro to Splunk</a>
