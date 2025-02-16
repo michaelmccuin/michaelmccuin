@@ -11,6 +11,7 @@
 <h2>Certifications:</h2>
 
 - <a href="https://i.imgur.com/xfTKi3j">AWS Certified Cloud Practitioner</a>
+- <a href="https://imgur.com/Q39PUEF">Axelos ITIL 4</a>
 - <a href="https://imgur.com/LgPzyYi">Azure Fundamentals</a>
 - <a href="https://imgur.com/pYl0Sx5.png">CompTIA A+</a>
 - <a href="https://i.imgur.com/Pvj4LP7.png">CompTIA Network+</a>
