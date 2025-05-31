@@ -1,12 +1,16 @@
-<h1><a href="https://www.linkedin.com/in/michaelmccuin/">Michael McCuin</a>, <br/></a> Cloud Engineer</a></h1>
+<h1><a href="https://www.linkedin.com/in/michaelmccuin/">Michael McCuin</a>
 
 <h2>Projects:</h2>
 
-- [Perform a Query with Splunk](https://github.com/michaelmccuin/PerformAQueryWithSplunk)
-- [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing)
-- [Security Risk Assessment](https://github.com/michaelmccuin/SecurityRiskAssessment)
-- [Security Awareness Training](https://github.com/michaelmccuin/SecurityAwarenessTraining)
-- [Writing an Effective Information Security Policy](https://github.com/michaelmccuin/WritingAnEffectiveInformationSecurityPolicy)
+Cloud Projects
+  - [Perform a Query with Splunk](https://github.com/michaelmccuin/PerformAQueryWithSplunk)
+  - [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing)
+  - [Security Risk Assessment](https://github.com/michaelmccuin/SecurityRiskAssessment)
+  - [Security Awareness Training](https://github.com/michaelmccuin/SecurityAwarenessTraining)
+  - [Writing an Effective Information Security Policy](https://github.com/michaelmccuin/WritingAnEffectiveInformationSecurityPolicy)
+
+Other Projects
+  - [Invoice Automation](https://github.com/michaelmccuin/WritingAnEffectiveInformationSecurityPolicy)
 
 <h2>Certifications:</h2>
 
