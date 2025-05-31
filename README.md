@@ -10,7 +10,7 @@ Cloud Projects
   - [Writing an Effective Information Security Policy](https://github.com/michaelmccuin/WritingAnEffectiveInformationSecurityPolicy)
 
 Other Projects
-  - [Invoice Automation](https://github.com/michaelmccuin/WritingAnEffectiveInformationSecurityPolicy)
+  - [Invoice Automation](https://github.com/michaelmccuin/InvoiceAutomation)
 
 <h2>Certifications:</h2>
 
