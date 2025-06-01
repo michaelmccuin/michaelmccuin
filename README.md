@@ -1,54 +1,56 @@
-<h1><a href="https://www.linkedin.com/in/michaelmccuin/">Michael McCuin</a>
+# 👋 Hi, I'm [Michael McCuin](https://www.linkedin.com/in/michaelmccuin/)
 
-<h2>Projects:</h2>
+I'm a Cloud Computing student and cybersecurity enthusiast with hands-on experience in automation, GRC, and cloud engineering. I enjoy solving real-world problems through Python scripting and cloud technologies.
 
-Cloud Projects
-  - [Perform a Query with Splunk](https://github.com/michaelmccuin/PerformAQueryWithSplunk)
-  - [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing)
-  - [Security Risk Assessment](https://github.com/michaelmccuin/SecurityRiskAssessment)
-  - [Security Awareness Training](https://github.com/michaelmccuin/SecurityAwarenessTraining)
-  - [Writing an Effective Information Security Policy](https://github.com/michaelmccuin/WritingAnEffectiveInformationSecurityPolicy)
+---
 
-Other Projects
-  - [Invoice Automation](https://github.com/michaelmccuin/InvoiceAutomation)
+## 🚀 Projects
 
-<h2>Certifications:</h2>
+### ☁️ Cloud Projects
+- 🔍 [Perform a Query with Splunk](https://github.com/michaelmccuin/PerformAQueryWithSplunk)  
+- 🛡️ [Practical Auditing](https://github.com/michaelmccuin/PracticalAuditing)  
+- 📊 [Security Risk Assessment](https://github.com/michaelmccuin/SecurityRiskAssessment)  
+- 🎓 [Security Awareness Training](https://github.com/michaelmccuin/SecurityAwarenessTraining)  
+- 📝 [Writing An Effective Information Security Policy](https://github.com/michaelmccuin/WritingAnEffectiveInformationSecurityPolicy)
 
-- <a href="https://i.imgur.com/xfTKi3j">AWS Certified Cloud Practitioner</a>
-- <a href="https://imgur.com/Q39PUEF">Axelos ITIL 4</a>
-- <a href="https://imgur.com/LgPzyYi">Azure Fundamentals</a>
-- <a href="https://imgur.com/pYl0Sx5.png">CompTIA A+</a>
-- <a href="https://i.imgur.com/Pvj4LP7.png">CompTIA Network+</a>
-- <a href="https://i.imgur.com/UFBttCc.png">CompTIA Security+</a>
-- <a href="https://xm-cyber.thinkific.com/certificates/kfmzmfxstj">Cybersecurity Exposure Management</a>
-- <a href="https://i.imgur.com/AO2C28b.jpg">The Definitive GRC Analyst Master Class</a>
-- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/S2HXYNMUT3BT/">Google Cybersecurity</a>
-- <a href="https://i.imgur.com/CDqw3GW.png">Linux Essentials</a>
-- <a href="https://i.imgur.com/Cn9oYCZ.jpg">PCI Compliance</a> <br/>
-- Splunk
-  - <a href="https://i.imgur.com/h7vRktc.jpg">Intro to Splunk</a>
-  - <a href="https://i.imgur.com/6qfEqhh.jpg">Introduction to Splunk Infrastructure Monitoring</a>
+### 🧾 Other Projects
+- 🤖 [Invoice Automation](https://github.com/michaelmccuin/InvoiceAutomation) – Python + Excel + Simulated SharePoint
 
+---
 
-<h2>Connect with me:</h2>
+## 🎓 Certifications
 
-[<img align="left" alt="MichaelMcCuin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MichaelMcCuin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+| Certification | Badge |
+|---------------|-------|
+| AWS Certified Cloud Practitioner | <img src="https://i.imgur.com/xfTKi3j.png" width="300"/> |
+| Axelos ITIL Foundations 4 | <img src="https://imgur.com/Q39PUEF.png" width="300"/> |
+| Azure Fundamentals | <img src="https://imgur.com/LgPzyYi.png" width="300"/> |
+| CompTIA A+ | <img src="https://imgur.com/pYl0Sx5.png" width="300"/> |
+| CompTIA Network+ | <img src="https://i.imgur.com/Pvj4LP7.png" width="300"/> |
+| CompTIA Security+ | <img src="https://i.imgur.com/UFBttCc.png" width="300"/> |
+| Cybersecurity Exposure Management | <img src="https://i.imgur.com/UnMN0Z4.png" width="300"/> |
+| GRC Analyst Master Class | <img src="https://i.imgur.com/AO2C28b.jpg" width="300"/> |
+| Google Cybersecurity | <img src="https://i.imgur.com/DTNbRNf.png" width="300"/> |
+| Linux Essentials | <img src="https://i.imgur.com/CDqw3GW.png" width="300"/> |
+| PCI Compliance | <img src="https://i.imgur.com/Cn9oYCZ.jpg" width="300"/> |
+| Splunk: Intro to Splunk | <img src="https://i.imgur.com/h7vRktc.jpg" width="300"/> |
+| Splunk: Infrastructure Monitoring | <img src="https://i.imgur.com/6qfEqhh.jpg" width="300"/> |
 
-[linkedin]: https://www.linkedin.com/in/michaelmccuin/
-[youtube]: https://www.youtube.com/@Michael.McCuin
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmccuin/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Michael.McCuin)
+
+---
 
 <!--
 **michaelmccuin/michaelmccuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Ideas for the future:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach me at ...
 -->
