@@ -21,6 +21,7 @@ I have a BA in Business Management and I am currently deepening my expertise in 
 
 | Certification | Badge |
 |---------------|-------|
+| AutoCAD Complete Course | <img src="https://i.imgur.com/jGGwzBg.jpg" width="300"/> |
 | AWS Certified Cloud Practitioner | <img src="https://i.imgur.com/xfTKi3j.png" width="300"/> |
 | Axelos ITIL Foundations 4 | <img src="https://imgur.com/Q39PUEF.png" width="300"/> |
 | Azure Fundamentals | <img src="https://imgur.com/LgPzyYi.png" width="300"/> |
