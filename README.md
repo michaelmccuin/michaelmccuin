@@ -1,7 +1,6 @@
 # 👋 Hi, I'm [Michael McCuin](https://www.linkedin.com/in/michaelmccuin/)
 
-I'm a Cloud Computing student and cybersecurity enthusiast with hands-on experience in automation, GRC, and cloud engineering. I enjoy solving real-world problems through Python scripting and cloud technologies.
-
+I have a BA in Business Management and I am currently deepening my expertise in cloud computing, accounting, and Python automation concepts.
 ---
 
 ## 🚀 Projects
